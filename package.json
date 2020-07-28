@@ -1,0 +1,17 @@
+{
+  "name": "jquery-typescript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.5.0",
+    "typescript": "^3.9.7"
+  }
+}
